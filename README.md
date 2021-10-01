@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 
 <!-- <h3 align="center">A passionate Full-Stack developer from India</h3> -->
-<h3 align="center">I'm a Full-Stack developer @SopraSteria.<p>I love to learn and explore new technologies and build stuff that can help anyone in the community.</p>  </h3>
+<h3 align="center">I'm a Full-Stack developer @SopraSteria.<p>I love to learn and explore new technologies and build stuff that can help community.</p>  </h3>
 <p></p>
 
 - 📫 How to reach me **utkkarshsharma@gmail.com**
